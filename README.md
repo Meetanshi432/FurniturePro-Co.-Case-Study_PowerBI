@@ -1,5 +1,5 @@
 
-# FurniturePro & Co. Sales & Customer Insights Dashboard (Power BI)
+# FurniturePro & Co. Sales & Customer Insights Dashboard  | Power BI Portfolio Project
 
 [![Power BI](https://img.shields.io/badge/Power--BI-Interactive--Dashboard-yellow?logo=power-bi)]()
 [![Portfolio Project](https://img.shields.io/badge/Portfolio-Project-blue)]()
@@ -60,10 +60,14 @@ This Power BI solution delivers a comprehensive analysis of FurniturePro's sales
 ## 👤 Author
 
 **Meetanshi Gupta**  
-_Data & Business Analyst | Visualization Specialist_
+_Data & Business Analyst | Business Intelligence Developer_
 
 ---
 
 ## 📄 License
 
 This project is provided for educational, personal portfolio, and non-commercial demonstration only.
+
+---
+
+_Leverage Power BI to tell compelling data stories and drive real business impact with this professional sales & customer analytics solution!_
